@@ -1,7 +1,8 @@
-
 Navigation-Scroller-Framework
 ============
 A Navigation Bar scroller like on the Amazon Kindle iOS application.
+
+![alt text](https://raw.github.com/torryharris/Navigation-Scroller-Framework/master/screenshot.png "Logo Title Text 1")
 
 
 ##How to use:
