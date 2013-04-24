@@ -1,3 +1,9 @@
+
+Navigation-Scroller-Framework
+============
+A Navigation Bar scroller like on the Amazon Kindle iOS application.
+
+
 ##How to use:
 1. Deployment target should be 5.0 or later
 2. Download  ScrollingNavigationDemo
