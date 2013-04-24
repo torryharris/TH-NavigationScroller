@@ -41,7 +41,7 @@
 12. 
 
 
-#####Steps 5,6,7,8 are optional.
+#####Steps 6,7,8,9 are optional.
 ##License
 SliderSwitch is licensed under the terms of the MIT License. Please see the [License](https://github.com/torryharris/SliderSwitch/blob/master/License) file for full details.
 
