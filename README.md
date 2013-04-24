@@ -1,12 +1,9 @@
-Navigation-Scroller-Framework
-=============================
-
-Navigation Bar scroller like on the Amazon Kindle iOS application
-
 ##How to use:
 1. Deployment target should be 5.0 or later
 2. Download  ScrollingNavigationDemo
 3. Copy ScrollingNavigationViewController.h and ScrollingNavigationViewController.m (It incorporates ARC)
+4. Copy Logging.h (since LogTrace has been used in this framework)
+
 4. Subclass ScrollingNavigationViewController and implement ScrollingNavigationDelegate.
                        
         @interface ViewController : ScrollingNavigationViewController<ScrollingNavigationDelegate>
@@ -40,6 +37,8 @@ Navigation Bar scroller like on the Amazon Kindle iOS application
         -(void)labelSwitchedAtIndex:(NSUInteger)index{
           _selectedLabel.text = [self.navigationTitles objectAtIndex:self.selectedLabelIndex];
         }
+        
+12. 
 
 
 #####Steps 5,6,7,8 are optional.
