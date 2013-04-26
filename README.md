@@ -19,7 +19,7 @@ A Navigation Bar scroller like on the Amazon Kindle iOS application.
       
         [self setLabelFont:[UIFont fontWithName:@"HelveticaNeue-Bold" size:18.0f]];
 
-6. Call setNavigationImage to set an imagae at navigation bar.
+6. Call setNavigationImage to set an image at navigation bar.
         
         [self setNavigationImage:[UIImage imageNamed:@"nav-bar.png"]];
 
@@ -50,5 +50,5 @@ A Navigation Bar scroller like on the Amazon Kindle iOS application.
 
 #####Steps 6,7,8,9 are optional.
 ##License
-SliderSwitch is licensed under the terms of the MIT License. Please see the [License](https://github.com/torryharris/SliderSwitch/blob/master/License) file for full details.
+SliderSwitch is licensed under the terms of the MIT License. Please see the [License](https://github.com/torryharris/Navigation-Scroller-Framework/blob/master/License) file for full details.
 
